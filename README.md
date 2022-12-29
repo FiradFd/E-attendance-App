@@ -10,15 +10,8 @@ I learned about SQLite while working on this project
 
 ## Screenshots
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/attandance/1.jpg)
+![App Screenshot](https://firadfd.coderexplorer.com/app_image/attendance.jpg)
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/attandance/2.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/attandance/3.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/attandance/4.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/attandance/5.jpg)
 
 ## Authors
 - [@Firad Fd](https://www.github.com/firadfd)
